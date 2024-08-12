@@ -6,4 +6,7 @@ print(Sentence1, Name, Sentence2)
 
 
 
-2years = "I am 2 years old"
+2years = "I am 2 years old"  #years2 = "I am 2 years old"
+
+Familyname = "papidze"  
+print(familyname)    #print(Familyname)

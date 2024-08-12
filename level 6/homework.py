@@ -12,7 +12,35 @@
 #print(num1 / num2)
 #print(num1 * num2)
 
-pencil = 10
-amount = input("how many pencils?")
-print(pencil * amount)
+# pencil = 10
+# amount = input("how many pencils?")
+# print(pencil * amount)
 
+
+# num1 = int(input("enter a number"))
+# num2 = int(input("enter a number"))
+# num3 = int(input("enter a number"))
+#  integers
+
+# print(num1 + num2)
+# print(num2 - num1)
+# print(num2 * num3)
+# print(num3 / num2)
+
+# name = input("enter your name")
+# surname = input("enter your surname")
+
+# print("my name is " + name + "my surname is " + surname)
+
+# num1 = input("enter a number")
+# num2 = int(input("enter a number"))
+
+# print(num1 * 5)
+# print(num2 * 5)
+
+num1 = int(input("enter a number"))
+num2 = input("enter a number")
+num3 = input("enter a number")
+num4 = int(input("enter a number"))
+print(num1 + num4)
+print(num2 + num3)

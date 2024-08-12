@@ -1,0 +1,17 @@
+list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+print(list[0])
+print(list[-1])
+print(list[1])
+print(list[2])
+print(list[-2])
+print(list[3])
+print(list[-3])
+print(list[4])
+print(list[-4])
+print(list[5])
+print(list[-5])
+print(list[6])
+print(list[-6])
+print(list[7])
+print(list[-7])
+#1 არის [0], 15 არის [-1], 2 არის 
