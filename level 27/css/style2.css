@@ -1,0 +1,27 @@
+table{
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid blue;
+}
+tr:nth-child(odd){
+    background-color: gray;
+}
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+}
+ol{
+    list-style-type: lower-roman;
+    list-style-position: outside;
+}
+input[type="text"]{
+    background-color: red;
+}
+input[type="password"]{
+    background-color: blue;
+}
+input[type="submit"]{
+    background-color: blueviolet;
+}

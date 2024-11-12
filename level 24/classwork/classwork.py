@@ -62,5 +62,6 @@ set = {1, 2, 3}
 set.add(4)
 set.remove(3)
 print(set)
-
+set1 = {1, 1, 2}
+print(set1)
 

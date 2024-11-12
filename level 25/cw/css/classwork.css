@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Elbasan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Noto+Sans+Elbasan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Noto+Sans+Elbasan&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+h1{
+    font-family: Kablammo, fantasy, sans-serif;
+}
+
+h2{
+    font-family: Roboto-Condensed, fantasy;
+}
+
+h3{ font-family: Noto-Sans-Elbasan, Arial;
+
+}
+
+a:link{
+    color:blue;
+    text-decoration: line-through;
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: wavy;
+}
+button:hover{
+    color:red
+}

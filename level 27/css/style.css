@@ -1,0 +1,23 @@
+table{
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid blue;
+}
+tr:nth-child(even){
+    background-color: gray;
+}
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+}
+input[type="text"]{
+    background-color: red;
+}
+div{
+    background-color: red;
+    border-radius: 10px 0 0 10px;
+    width: 100px;
+    height: 100px;
+}
