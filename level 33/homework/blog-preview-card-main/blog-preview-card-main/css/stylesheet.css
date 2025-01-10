@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+.card{
+    height: 400px;
+    width: 250px;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px;
+}
+.art{
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+h1{
+    font-family: Figtree;
+    font-size: 15px;
+    border: 2px solid white;
+    display: inline;
+    padding: 5px 7px;
+    background-color: hsl(47, 88%, 63%);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+h2{
+    font-size: 15px;
+    font-family: Figtree;
+    font-weight: 500;
+}
+h3{
+    font-family: Figtree;
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+h4{
+    font-family: Figtree;
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    color: hsl(0, 0%, 42%);
+}
+.greg{
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+h5{
+    display: inline;
+    font-size: 15px;
+    font-family: Figtree;
+    font-weight: 800;
+}

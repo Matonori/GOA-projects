@@ -1,0 +1,18 @@
+.Sedans{
+    background-color: hsl(31, 77%, 52%);
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
+.SUVs{
+    background-color: hsl(184, 100%, 22%);
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
+.Luxury{
+    background-color: hsl(179, 100%, 13%);
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
